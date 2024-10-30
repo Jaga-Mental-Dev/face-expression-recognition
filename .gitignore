@@ -2,4 +2,4 @@
 # dataset files
 face_populer/
 face_populer.zip
-best_model.h5
+best_model.keras
