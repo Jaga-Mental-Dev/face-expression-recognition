@@ -20,30 +20,6 @@ Proyek ini adalah implementasi model **Facial Emotion Recognition (FER)** menggu
 
 ---
 
-## 📂 Struktur Proyek
-```
-facial_emotion_recognition/
-│
-├── dataset_4face/
-│   ├── train/          # Folder dataset pelatihan (4 kelas)
-│   ├── test/           # Folder dataset pengujian (4 kelas)
-│
-├── scripts/
-│   ├── train_model.py  # Script untuk melatih model
-│   ├── test_model.py   # Script untuk menguji model
-│   └── utils.py        # Utility functions seperti data augmentation
-│
-├── models/
-│   └── fer_model.h5    # Model hasil pelatihan (tersimpan)
-│
-├── notebooks/
-│   └── FER_Training.ipynb  # Notebook eksplorasi data dan pelatihan
-│
-├── requirements.txt    # File dependensi
-└── README.md           # Dokumentasi proyek
-```
-
----
 
 ## ⚙️ Persyaratan
 ### Dependensi:
